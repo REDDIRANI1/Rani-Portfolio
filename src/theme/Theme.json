@@ -1,0 +1,17 @@
+{
+  "colors": {
+    "primary": "#f97316",
+    "primaryHover": "#ea580c",
+    "secondary": "#facc15",
+    "secondaryHover": "#eab308",
+
+    "backgroundPrimary": "#0d0d0d",
+    "backgroundSecondary": "#1a1a1a",
+
+    "textPrimary": "#f5f5f5",
+    "textSecondary": "#a3a3a3",
+
+    "borderPrimary": "rgba(249,115,22,0.3)",
+    "borderSecondary": "rgba(255,255,255,0.1)"
+  }
+}

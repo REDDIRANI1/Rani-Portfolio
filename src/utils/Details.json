@@ -1,0 +1,213 @@
+{
+  "personal": {
+    "name": "ReddiRani",
+    "role": "Full Stack Developer",
+    "profile_image": "https://i.ibb.co/6JsZkTRF/Reddi-Rani.jpg",
+    "resume_link": "https://drive.google.com/file/d/1U1kx-ecNW5v0PCC6-9RMQGFZH_vYO7jP/view?usp=drive_link",
+    "location": "Hyderabad, India",
+    "experience_years": "3.6"
+  },
+
+  "intro": {
+    "text": "Hi, I'm ReddiRani — a passionate Full Stack Developer specializing in React.js, TypeScript, Python, FastAPI, and PostgreSQL. I build scalable, user-focused web applications with clean code and seamless UI/UX."
+  },
+
+  "about": {
+    "profile_image": "https://i.ibb.co/6JsZkTRF/Reddi-Rani.jpg",
+    "text1": "Hello! I'm ReddiRani, a full-stack developer experienced in building responsive and high-performance web applications using React.js on the frontend and FastAPI with Python on the backend.",
+    "text2": "I enjoy solving real-world problems, optimizing performance, and building scalable systems. I'm always eager to learn new technologies and contribute to impactful projects."
+  },
+
+  "contact": {
+    "email": "reddirani357@gmail.com",
+    "phone": "+91 7815813511",
+    "linkedin": "https://www.linkedin.com/in/gunasekharneeluri/",
+    "github": "https://github.com/gunasekhar11",
+    "twitter": "",
+    "instagram": "",
+    "facebook": ""
+  },
+
+  "skills": [
+    { "name": "Next.js", "level": "Advanced", "icon": "next" },
+    { "name": "React.js", "level": "Advanced", "icon": "react" },
+    { "name": "JavaScript (ES6+)", "level": "Advanced", "icon": "javascript" },
+    { "name": "TypeScript", "level": "Advanced", "icon": "typescript" },
+    { "name": "Tailwind CSS", "level": "Advanced", "icon": "tailwind" },
+    { "name": "Python", "level": "Intermediate", "icon": "python" },
+    { "name": "FastAPI", "level": "Intermediate", "icon": "fastapi" },
+    { "name": "PostgreSQL", "level": "Intermediate", "icon": "postgresql" },
+    { "name": "Git / GitHub", "level": "Advanced", "icon": "github" }
+  ],
+  "services": [
+    {
+      "title": "Full Stack Development",
+      "description": "Building scalable front-end & back-end applications with modern technologies.",
+      "icon": "fa-code"
+    },
+    {
+      "title": "Frontend Development",
+      "description": "Building modern, responsive, and interactive user interfaces using React and Tailwind CSS.",
+      "icon": "fa-display"
+    },
+    {
+      "title": "API Development",
+      "description": "Developing secure and high-performance APIs using FastAPI.",
+      "icon": "fa-plug"
+    },
+    {
+      "title": "Deployment & CI/CD",
+      "description": "Deploying applications with CI/CD pipelines using GitHub Actions and Nginx.",
+      "icon": "fa-server"
+    }
+  ],
+
+  "category": ["All", "Frontend", "Full Stack"],
+
+  "projects": [
+    {
+      "title": "Flaer Homes Official Website - Redesign",
+      "category": "Frontend",
+      "image": "https://i.ibb.co/cfpmgQ1/Screenshot.png",
+      "link": "https://flaerhomes.com/"
+    },
+    {
+      "title": "CRM Dashboard for Flaer Homes",
+      "category": "Frontend",
+      "image": "https://i.ibb.co/vvBMvC01/Screenshot-2026-01-17-121209.png",
+      "link": "https://crm.flaerhomes.com/"
+    },
+    {
+      "title": "Maang Technologies Official Website",
+      "category": "Frontend",
+      "image": "https://i.ibb.co/4R8vxCrG/Screenshot-2025-11-19-112922.png",
+      "link": "https://maangtechnologies.com/"
+    },
+    {
+      "title": "Buy Rent Exchange App",
+      "category": "Full Stack",
+      "image": "https://i.ibb.co/Xr5rXWr4/Screenshot-2025-11-19-112951.png",
+      "link": "https://bre.maangtechnologies.com/"
+    },
+    {
+      "title": "Resume Builder App",
+      "category": "Full Stack",
+      "image": "https://i.ibb.co/ks9gStTz/Screenshot-2025-11-19-113020.png",
+      "link": "https://resume-builder.maangtechnologies.com/"
+    },
+    {
+      "title": "Employee Dashboard App",
+      "category": "Full Stack",
+      "image": "https://i.ibb.co/Pz1Q3VHp/Screenshot-2025-11-19-113119.png",
+      "link": "https://eds.maangtechnologies.com/"
+    },
+    {
+      "title": "Chatbot Web App",
+      "category": "Frontend",
+      "image": "https://i.ibb.co/xS7N4Fb8/Screenshot-2025-11-19-113043.png",
+      "link": "https://chatbot.maangtechnologies.com/"
+    },
+     {
+      "title": "Star Gleam Education Website",
+      "category": "Frontend",
+      "image": "https://i.ibb.co/mrcxsd7M/Screenshot-2026-01-17-122214.png",
+      "link": "https://stargleameducation.com/"
+    }
+  ],
+
+  "education": [
+    {
+      "degree": "B.Tech in Computer Science & Engineering",
+      "institution": "IIIT RGUKT Ongole",
+      "fromyear": "2018",
+      "toyear": "2022",
+      "grade": "9.1 / 10"
+    },
+    {
+      "degree": "Pre-University Course",
+      "institution": "IIIT RGUKT Ongole",
+      "fromyear": "2016",
+      "toyear": "2018",
+      "grade": "8.1 / 10"
+    },
+    {
+      "degree": "Secondary Education",
+      "institution": "AP Model School",
+      "fromyear": "2015",
+      "toyear": "2016",
+      "grade": "9.7 / 10"
+    }
+  ],
+
+  "experience": [
+    {
+      "company": "Flear Homes Pvt Ltd",
+      "designation": "Software Development Engineer-I",
+      "duration": "Jun 2025 - Present",
+      "responsibilities": [
+        "Designed and developed scalable user interfaces with React and TypeScript.",
+        "Improved performance by 50% through optimized front-end architecture.",
+        "Implemented CI/CD pipelines using GitHub Actions, reducing deployment time by 80%."
+      ]
+    },
+    {
+      "company": "Maang Technologies Pvt Ltd",
+      "designation": "Full Stack Developer",
+      "duration": "Aug 2022 - Jun 2025",
+      "responsibilities": [
+        "Designed and developed scalable user interfaces with React and TypeScript.",
+        "Built and optimized backend APIs using FastAPI and PostgreSQL.",
+        "Improved performance by 30% through optimized front-end architecture.",
+        "Implemented CI/CD pipelines using GitHub Actions, reducing deployment time by 80%."
+      ]
+    }
+  ],
+
+  "achievements": [
+    {
+      "title": "Top Performer - Full Stack Team",
+      "organization": "Maang Technologies",
+      "description": "Recognized for delivering high-quality applications and improving team workflows.",
+      "year": "2023"
+    }
+  ],
+
+  "certifications": [
+    {
+      "title": "React + TypeScript",
+      "organization": "Udemy",
+      "image": "https://i.ibb.co/HLXkt2p6/images.png",
+      "link": "https://udemy.com"
+    },
+    {
+      "title": "FastAPI - Python",
+      "organization": "Udemy",
+      "image": "https://i.ibb.co/HLXkt2p6/images.png",
+      "link": "https://udemy.com"
+    }
+  ],
+
+  "testimonials": [
+    {
+      "name": "Team Lead",
+      "role": "Maang Technologies",
+      "image": "https://i.ibb.co/bfmdLH8/Avatar.webp",
+      "text": "Guna consistently delivers high-quality work with strong attention to detail and a great attitude toward problem-solving."
+    },
+    {
+      "name": "Project Manager",
+      "role": "Maang Technologies",
+      "image": "https://i.ibb.co/bfmdLH8/Avatar.webp",
+      "text": "His ability to quickly learn and adapt to new tools makes him a valuable asset to the team."
+    }
+  ],
+
+  "navlinks": [
+    { "link": "#home", "linkName": "Home" },
+    { "link": "#about", "linkName": "About" },
+    { "link": "#skills", "linkName": "Skills" },
+    { "link": "#experience", "linkName": "Experience" },
+    { "link": "#projects", "linkName": "Projects" },
+    { "link": "#contact", "linkName": "Contact" }
+  ]
+}
